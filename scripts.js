@@ -7,7 +7,10 @@ function randomSort(){
     const result = Math.floor(Math.random() * (inputMax - inputMin + 1)) + inputMin
 
     alert(result)
+
+
 }
+
 
 
 
